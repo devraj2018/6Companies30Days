@@ -39,7 +39,7 @@ Click [Link](https://www.linkedin.com/posts/arshgoyal_revisewitharsh-6companies3
 
 ## Index
 
-| Day | Question Name           | Link                                                                                 | Cpp Sol.                                                                                                                               |
-| --- | ----------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | Print Anagrams Together | [Question link](https://practice.geeksforgeeks.org/problems/print-anagrams-together) | [Solution ](<https://github.com/devraj2018/6Companies30Days/blob/main/Company_1(Goldman_Sachs)/Group_of_Strings_that_are_Anagram.cpp>) |
-| 01  | Print Anagrams Together | [Question link](https://practice.geeksforgeeks.org/problems/print-anagrams-together) | [Solution ](<https://github.com/devraj2018/6Companies30Days/blob/main/Company_1(Goldman_Sachs)/Group_of_Strings_that_are_Anagram.cpp>) |
+| Company             | Question | Question Name           | Link                                                                                 | Cpp Sol.                                                                                                                               |
+| ------------------- | -------- | ----------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| <b>Goldman Sachs<b> | 01       | Print Anagrams Together | [Question link](https://practice.geeksforgeeks.org/problems/print-anagrams-together) | [Solution ](<https://github.com/devraj2018/6Companies30Days/blob/main/Company_1(Goldman_Sachs)/Group_of_Strings_that_are_Anagram.cpp>) |
+|                     | 02       | Print Anagrams Together | [Question link](https://practice.geeksforgeeks.org/problems/print-anagrams-together) | [Solution ](<https://github.com/devraj2018/6Companies30Days/blob/main/Company_1(Goldman_Sachs)/Group_of_Strings_that_are_Anagram.cpp>) |
