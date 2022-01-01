@@ -1,6 +1,6 @@
 ## 💻 6Companies30Days 🏆🏅
 
-This initiative is in collaboration with <b>Arsh Goyal</b> who is helping coding community.
+This initiative started by <b>Arsh Goyal</b> who is helping coding community to crack interviews.
 Click [Link](https://www.linkedin.com/posts/arshgoyal_revisewitharsh-6companies30days-internship-ugcPost-6883099400747397120-rDHu) to join 6Companies30Days.
 
 <img src="https://github.com/devraj2018/6Companies30Days/blob/main/Screenshot%202021-12-31%20at%2011.39.47%20AM.png">
@@ -15,7 +15,7 @@ Click [Link](https://www.linkedin.com/posts/arshgoyal_revisewitharsh-6companies3
 │   │     └── solution.cpp
 .   .
 .   .
-├── Company_01
+├── Company_02
 │   ├── Question_1
 │   │     └── solution.cpp
 │   ├── Question_2
@@ -26,7 +26,7 @@ Click [Link](https://www.linkedin.com/posts/arshgoyal_revisewitharsh-6companies3
 .    .
 .    .
 .    .....
-├── Company_01
+├── Company_06
 │   ├── Question_1
 │   │     └── solution.cpp
 │   ├── Question_2
