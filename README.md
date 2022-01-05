@@ -44,7 +44,7 @@ Click [Link](https://www.linkedin.com/posts/arshgoyal_revisewitharsh-6companies3
 | <b>Goldman Sachs<b> | 01       | Print Anagrams Together | [Question link](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#) | [Solution ](<https://github.com/devraj2018/6Companies30Days/blob/main/Company_1(Goldman_Sachs)/Group_of_Strings_that_are_Anagram.cpp>) |
 |                     | 02       | Print Anagrams Together | [Question link](https://leetcode.com/problems/ugly-number-ii/)                           | [Solution ](<https://github.com/devraj2018/6Companies30Days/blob/main/Company_1(Goldman_Sachs)/Group_of_Strings_that_are_Anagram.cpp>) |
 
-| <b>Amazon<b> | 01 | Calculating Maximum Profit | [Question link](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1) | [Solution ](----) |
+| <b>Amazon<b> | 01 | Calculating Maximum Profit | [Question link](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1) | [Solution ](#) |
 
 | | 02 | Longest Mountain | [Question link](https://leetcode.com/problems/longest-mountain-in-array/) | [Solution ](----) |
 
